@@ -78,6 +78,7 @@ A graphical To-Do List application using Tkinter and SQLite for database storage
 - **Marathi:** Native or Bilingual Proficiency
 
 ## 🌟 Extra Curricular Activities
+- Core Member of Team AI-ML
 - Core Member of Leo Club (Leadership, Experience, and Opportunity)
 - Core Member of Bulls and Bears (The Finance Club of VIT Vellore)
 - Core Member in Yuva Marathi (Literary and Cultural Club)
