@@ -1,7 +1,3 @@
-Here's a draft of a GitHub profile README based on your resume:
-
----
-
 # Hi 👋 I'm Atharva Khadse
 
 A motivated and enthusiastic computer science student specializing in Data Science with proficiency in Python, Machine Learning, SQL, and data analysis. Positioned to contribute value to organizations by showcasing expertise in problem-solving and data-driven decision-making.
