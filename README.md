@@ -11,7 +11,7 @@ A motivated and enthusiastic computer science student specializing in Data Scien
 - **Programming Languages:** Python, Java, C/C++, PL/SQL
 - **Data Science:** Machine Learning, Deep Learning, Data Analysis, Statistical Analysis
 - **Tools & Technologies:** Google Cloud, Tableau, Power BI, Database Management
-- **Software Development:** Frontend and Backend Development, UI/UX Design
+- **Software Development:** Backend Development
 
 ## 📚 Education
 **B. Tech in Computer Science with Specialization in Data Science**  
