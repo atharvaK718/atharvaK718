@@ -45,11 +45,19 @@ May 2024 – July 2023
 - Utilized advanced SQL queries to enhance data retrieval efficiency.
 
 ## 🔧 Personal Projects
+**False-Alarm-Detection**
+This project addresses the issue of false alarms in a chemical factory equipped with sensors for detecting harmful H2S gas. By improving detection accuracy, the project aims to reduce unnecessary costs associated with false alarms, ensuring better resource allocation and safety measures. 
 
-**Library Management System** (July 2023)  
+**YouTube-Trending-Videos-Analysis**
+In this project, we analyze the YouTube trending videos dataset to discover patterns and insights. Various data visualization techniques are employed to explore and better understand the data, shedding light on what makes a video trend on YouTube.
+
+**Heart-Disease-Prediction-Model**
+This repository features a machine learning model designed to predict the likelihood of heart disease based on various input features. Developed using Python and popular machine learning libraries, this model aims to assist in early diagnosis and preventive measures.
+
+**Library Management System**
 A Python-based Library Management System using Tkinter GUI and SQLite for database management. It allows users to add, view, update, and delete book records.
 
-**To-Do List Application** (Aug 2023)  
+**To-Do List Application**  
 A graphical To-Do List application using Tkinter and SQLite for database storage, enabling users to add and manage tasks through an interactive GUI.
 
 ## 📜 Certifications
