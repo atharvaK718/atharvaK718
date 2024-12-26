@@ -88,5 +88,3 @@ May 2024 – July 2023
 - Core Member in Yuva Marathi (Literary and Cultural Club)
 
 ---
-
-Feel free to make any adjustments or additions to better suit your preferences!
