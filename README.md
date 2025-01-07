@@ -45,8 +45,18 @@ May 2024 – July 2023
 - Utilized advanced SQL queries to enhance data retrieval efficiency.
 
 ## 🔧 Personal Projects
+
+**Crack-Detection-on-Structures**
+      This project aims to develop an advanced crack detection system by integrating a U-Net deep learning model with real-time camera feeds for continuous infrastructure monitoring. Cracks in structures such as bridges, roads, and buildings pose significant risks, making timely detection crucial for maintenance and safety.
+
+**HR-Analytics-using-PowerBI**
+      This repository contains a Power BI Dashboard focused on HR Analytics, providing detailed insights into employee attrition and key workforce metrics. The dashboard enables users to explore data interactively and make informed, data-driven HR decisions.
+
 **False-Alarm-Detection**
       This project addresses the issue of false alarms in a chemical factory equipped with sensors for detecting harmful H2S gas. By improving detection accuracy, the project aims to reduce unnecessary costs associated with false alarms, ensuring better resource allocation and safety measures. 
+
+**Self-Checkout System with Virtual Keyboard**
+      This project implements a Self-Checkout System that integrates computer vision and machine learning to enable a seamless checkout experience. The system uses a camera to scan products and a virtual keyboard for payment processing.
 
 **YouTube-Trending-Videos-Analysis**
       In this project, we analyze the YouTube trending videos dataset to discover patterns and insights. Various data visualization techniques are employed to explore and better understand the data, shedding light on what makes a video trend on YouTube.
