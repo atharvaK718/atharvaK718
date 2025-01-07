@@ -16,7 +16,7 @@ A motivated and enthusiastic computer science student specializing in Data Scien
 ## 📚 Education
 **B. Tech in Computer Science with Specialization in Data Science**  
 *Vellore Institute of Technology, Vellore*  
-06/2021 - Present | CGPA: 8.66
+06/2021 - Present | CGPA: 8.74
 
 **Higher Secondary Education**  
 *Vidya Vikas Highschool*  
