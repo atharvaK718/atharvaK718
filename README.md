@@ -21,6 +21,15 @@ My engineering work spans the full AI system lifecycle — from agentic orchestr
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Period | Grade |
+|:---|:---|:---|:---|
+| Executive PG in Applied AI & Agentic AI | IIIT Bangalore | Dec 2025 – Present | — |
+| B.Tech in Computer Science (Data Science) | VIT Vellore | 2021 – 2025 | CGPA: 8.79 / 10 |
+
+---
+
 ## 🛠 Core Expertise
 
 | Category | Technologies |
@@ -138,15 +147,6 @@ My engineering work spans the full AI system lifecycle — from agentic orchestr
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Period | Grade |
-|:---|:---|:---|:---|
-| Executive PG in Applied AI & Agentic AI | IIIT Bangalore | Dec 2025 – Present | — |
-| B.Tech in Computer Science (Data Science) | VIT Vellore | 2021 – 2025 | CGPA: 8.79 / 10 |
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer |
@@ -155,20 +155,6 @@ My engineering work spans the full AI system lifecycle — from agentic orchestr
 | Azure Data Scientist Associate | Microsoft |
 | Cloud Digital Leader | Google |
 | Data Analytics Professional | Google |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvaK718&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atharvaK718&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaK718&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
