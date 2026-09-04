@@ -25,7 +25,7 @@ My engineering work spans the full AI system lifecycle — from agentic orchestr
 
 | Degree | Institution | Duration |
 |:--------|:------------|:---------|
-| **Executive PG in Applied & Agentic AI** | IIIT Bangalore | Dec 2025 – Aug 2026 |
+| **Executive PG in Applied & Agentic AI** | IIIT Bangalore | 2025 – 2026 |
 | **B.Tech in Computer Science (Data Science)** | VIT Vellore | 2021 – 2025 |
 
 ---
